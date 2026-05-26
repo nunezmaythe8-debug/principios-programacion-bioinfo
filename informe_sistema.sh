@@ -1,6 +1,6 @@
 #!/bin/bash
 # Autor: Mayte Nuñez
-# Descripción:
+# Descripción:Muestra información del sistema
 echo ""
 
 echo -e "\e[34m======================== \e[0m"
